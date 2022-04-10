@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/Vm/Mx/MD5E-s6954--ec8bed987ae79fee7277dcadd904fcca.cmd/MD5E-s6954--ec8bed987ae79fee7277dcadd904fcca.cmd
+/annex/objects/MD5E-s6954--ec8bed987ae79fee7277dcadd904fcca.cmd
