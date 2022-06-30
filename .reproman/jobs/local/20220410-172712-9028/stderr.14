@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/15/ZM/MD5E-s357--c13713fed94174a72f7f369045ffee45.14/MD5E-s357--c13713fed94174a72f7f369045ffee45.14
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-ge4vjowp because the default path (/home/fmriprep/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
